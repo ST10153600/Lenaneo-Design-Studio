@@ -1,0 +1,53 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_tools"
+            android:icon="@drawable/tool_icon"
+            android:title="@string/measuring_tool" />
+        <item
+            android:id="@+id/nav_virtual"
+            android:icon="@drawable/virtual"
+            android:title="@string/virtual_reality" />
+    </group>
+
+
+    <item android:title="@string/profile">
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/profile_icon"
+                    android:title="@string/profile" />
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/logout_icon"
+                    android:title="@string/logout" />
+            </group>
+        </menu>
+    </item>
+
+
+    <item android:title="@string/communication">
+        <menu>
+            <item
+                android:id="@+id/nav_chat"
+                android:icon="@drawable/chat"
+                android:title="@string/chat_room" />
+            <item
+                android:id="@+id/nav_comsult"
+                android:icon="@drawable/consult_icon"
+                android:title="@string/request_consultation" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share_icon"
+                android:title="@string/share" />
+        </menu>
+    </item>
+</menu>

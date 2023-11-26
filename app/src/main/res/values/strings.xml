@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lenaneo Design Studio</string>
+    <string name="admin">Admin</string>
+    <string name="client">Client</string>
+    <string name="lenaneo_logo">Lenaneo Logo</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="image_desc" />
+    <string name="don_t_have_an_account_click_here_to_create_one">Don\'t have an account click here to create one</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full Name</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="signup_password">SignUp Password</string>
+    <string name="signup_email">SignUp Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_click_here_to_login">Already have an account click here to Login</string>
+    <string name="lenaneo_design_studio">Lenaneo Design Studio</string>
+    <string name="home">Home</string>
+    <string name="measuring_tool">Measuring Tool</string>
+    <string name="chat_room">Chat Room</string>
+    <string name="virtual_reality">Virtual Reality</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="communication">Communication</string>
+    <string name="share">Share</string>
+    <string name="request_consultation">Request Consultation</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="back_button">Back Button</string>
+</resources>

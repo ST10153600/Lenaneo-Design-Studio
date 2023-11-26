@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155626271311",
+    "project_id": "lenaneo-design-studio",
+    "storage_bucket": "lenaneo-design-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155626271311:android:2a30880dad022979e8f03a",
+        "android_client_info": {
+          "package_name": "com.example.lenaneodesignstudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3bcvY-WdTh5QaUDjFew4hhLjYDTvKBOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
